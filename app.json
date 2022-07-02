@@ -1,6 +1,6 @@
 {
-    "name": "Social_Mention_Robot",
-    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png", 
+    "name": "ᴍᴇɴᴛɪᴏɴ x ʀᴏʙᴏᴛ",
+    "logo": "https://telegra.ph/file/5a566d20e4674e8b6c3d0.jpg", 
     "description": "A simple mention all for telegram.",
     "env": {
         "TOKEN": {
