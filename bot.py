@@ -41,6 +41,7 @@ async def help(event):
       [
         Button.url('📣 Channel', 'https://t.me/comrade_robotz'),
         Button.url('📦 Source', 'https://github.com/baby-bobby/MENTION-ROBOT')
+      ]
     )
   )
   
